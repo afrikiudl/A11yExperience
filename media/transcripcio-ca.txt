@@ -1,0 +1,30 @@
+A11yExperience — Detectiu de barreres digitals
+Grup de recerca GRIHO · Universitat de Lleida
+
+1. El problema
+Cada dia fem tràmits, estudiem i compartim continguts. Però un formulari confús ens pot impedir acabar una gestió, i un vídeo sense subtítols pot dificultar la comprensió del contingut.
+
+El problema és de la persona que accedeix amb un lector de pantalla i un teclat Braille, amb pantalles ampliades o amb tecnologies de suport, i que pot experimentar més lentitud i complexitat? O bé és del disseny del contingut?
+
+2. La proposta
+A11yExperience ens proposa investigar-ho. Sense saber programar, et converteixes en detectiu de barreres digitals.
+
+Primer, experimenta: proves la tasca i busques pistes. Després, coneixes el testimoni d’una persona gran o amb discapacitat que t’explica com accedeix a la tecnologia i les barreres que hi troba. I, finalment, transforma: tries una alternativa de disseny i comproves si la tasca realment funciona.
+
+Algunes barreres es poden prevenir quan compartim continguts, afegint textos descriptius, però d’altres, com un formulari inaccessible, les ha de corregir el responsable dels serveis digitals.
+
+Mateixa persona. Mateixa tecnologia. Diferent disseny.
+
+3. La recerca
+Al GRIHO fem recerca i transferència des de fa més de 30 anys. Recentment hem treballat en la comprensió de les barreres d’accessibilitat digital.
+
+A la Xarxa AccessCat disposem de plataformes per comprendre les pautes WCAG, un avaluador bàsic d’accessibilitat i formació en accessibilitat digital.
+
+Volem traslladar la nostra recerca sobre accessibilitat a tothom, aportant coneixement, exemples i experiència per facilitar la comprensió de l’accessibilitat digital.
+
+4. Impacte
+Avui mostrem un prototip parcial de tres casos. Amb l’ajut es desenvoluparan sis casos accessibles en català.
+
+Amb la col·laboració de la Xarxa AccessCat es farà difusió a centres educatius, entitats i administracions de Catalunya. Tindrem un impacte de 3.000 visites úniques i 10 entitats amb difusió acreditada.
+
+Moltes gràcies.

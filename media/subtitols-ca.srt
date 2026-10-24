@@ -1,0 +1,163 @@
+1
+00:00:01,100 --> 00:00:03,840
+A11yExperience,
+detectiu de barreres digitals.
+
+2
+00:00:04,000 --> 00:00:06,440
+Grup de recerca GRIHO,
+Universitat de Lleida.
+
+3
+00:00:06,560 --> 00:00:11,200
+1. El problema. Cada dia fem tràmits,
+estudiem i compartim continguts.
+
+4
+00:00:11,720 --> 00:00:15,180
+Però un formulari confús ens pot
+impedir acabar una gestió, i un vídeo
+
+5
+00:00:15,240 --> 00:00:17,580
+sense subtítols pot dificultar
+la comprensió del contingut.
+
+6
+00:00:17,840 --> 00:00:21,680
+El problema és de la persona que accedeix
+amb un lector de pantalla i un teclat Braille,
+
+7
+00:00:22,220 --> 00:00:25,580
+amb pantalles ampliades,
+amb tecnologies de suport i amb més
+
+8
+00:00:25,640 --> 00:00:28,740
+lentitud i complexitat, o bé
+és del disseny del contingut?
+
+9
+00:00:28,800 --> 00:00:34,080
+2. La proposta.
+A11yExperience ens proposa investigar-ho.
+
+10
+00:00:34,300 --> 00:00:37,960
+Sense saber programar, et converteixes
+en detectiu de barreres digitals.
+
+11
+00:00:38,340 --> 00:00:42,040
+Primer, experimenta:
+proves la tasca i busques pistes.
+
+12
+00:00:42,160 --> 00:00:46,060
+Després, coneixes el testimoni d'una
+persona gran o amb discapacitat
+
+13
+00:00:46,120 --> 00:00:49,260
+que t'explica com accedeix
+a la tecnologia i les barreres que hi troba.
+
+14
+00:00:49,580 --> 00:00:51,180
+I, finalment, transforma: tries
+
+15
+00:00:51,240 --> 00:00:54,520
+una alternativa de disseny i comproves
+si la tasca realment funciona.
+
+16
+00:00:54,580 --> 00:00:58,680
+Perquè algunes barreres es poden
+prevenir quan compartim continguts,
+
+17
+00:00:58,860 --> 00:01:00,380
+afegint textos descriptius,
+
+18
+00:01:00,680 --> 00:01:03,740
+però d'altres, com un formulari
+inaccessible, les ha de corregir
+
+19
+00:01:03,800 --> 00:01:05,780
+el responsable dels serveis digitals.
+
+20
+00:01:06,440 --> 00:01:10,340
+Mateixa persona. Mateixa tecnologia.
+Diferent disseny.
+
+21
+00:01:10,460 --> 00:01:15,080
+3. La recerca. Al GRIHO fem recerca
+i transferència des de fa més de 30 anys.
+
+22
+00:01:15,920 --> 00:01:19,460
+Recentment hem treballat en la comprensió
+de les barreres d'accessibilitat digital.
+
+23
+00:01:19,520 --> 00:01:22,000
+A la Xarxa AccessCat disposem
+de plataformes per comprendre les pautes
+
+24
+00:01:22,060 --> 00:01:26,520
+WCAG, un avaluador bàsic d'accessibilitat
+i formació en accessibilitat digital.
+
+25
+00:01:27,220 --> 00:01:30,600
+I volem traslladar la nostra recerca
+sobre accessibilitat a tothom, aportant
+
+26
+00:01:30,660 --> 00:01:32,340
+coneixement, exemples i experiència
+
+27
+00:01:32,400 --> 00:01:35,000
+per facilitar la comprensió
+de l'accessibilitat digital.
+
+28
+00:01:35,740 --> 00:01:39,660
+4. Impacte. Avui mostrem
+un prototip parcial de tres casos.
+
+29
+00:01:39,980 --> 00:01:43,900
+I amb l'ajut es desenvoluparan
+sis casos accessibles en català.
+
+30
+00:01:43,960 --> 00:01:46,080
+Amb la col·laboració de la Xarxa AccessCat
+
+31
+00:01:46,140 --> 00:01:50,020
+es farà difusió a centres educatius,
+entitats i administracions de Catalunya.
+
+32
+00:01:50,440 --> 00:01:51,880
+Tindrem un impacte de 3.000
+
+33
+00:01:51,940 --> 00:01:55,120
+visites úniques i 10
+entitats amb difusió acreditada.
+
+34
+00:01:55,360 --> 00:01:56,560
+Moltes gràcies.
+
